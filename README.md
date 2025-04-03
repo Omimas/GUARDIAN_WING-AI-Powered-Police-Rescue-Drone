@@ -1,4 +1,4 @@
-# GUARDIAN WING: AI-Powered Police Rescue Drone 🚨✈️  
+# GUARDIAN WING: AI-Powered Police Rescue Drone  
 **The Future of Officer Safety – Autonomous, Smartwatch-Triggered Emergency Response**
 
 A cutting-edge drone system integrated into police vehicles, designed to save lives in critical situations. When an officer's vitals spike or crash, GUARDIAN WING launches instantly, providing real-time aerial surveillance, emergency alerts, and GPS tracking—all under 250g for legal compliance.
@@ -78,7 +78,7 @@ Open-source firmware (MIT License), proprietary hardware.
 
 
 
-## 📊 Technical Specifications
+##  Technical Specifications
 
 | Category        | Details                          |
 |-----------------|----------------------------------|
