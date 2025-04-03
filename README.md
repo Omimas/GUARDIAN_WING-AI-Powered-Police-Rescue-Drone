@@ -105,5 +105,9 @@ graph TD
   I --> J[Maintain 15m Tracking Altitude]
   J --> K[Record Evidence Package]
   K --> L[Update Patrol Units]
-  
- 
+```
+
+
+ ## Update on Project Progress:
+I'm currently working on improving this project and trying to learn new things along the way. As a university student, I’m also looking for an internship opportunity, which is why my time may be a bit limited. However, I plan to keep making progress on this project during the summer and hope to apply some new skills I gain from the internship to it.
+Feel free to follow along and give feedback on any updates!
