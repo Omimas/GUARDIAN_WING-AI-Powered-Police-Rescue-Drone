@@ -31,7 +31,7 @@ A cutting-edge drone system integrated into police vehicles, designed to save li
 ## 🛠️ How It Works
 
 ### 1️⃣ Smartwatch Sync
-Officer wears any BLE-compatible fitness tracker (Apple Watch, Garmin, Fitbit).  
+Officer wears any BLE-compatible fitness tracker (Apple Watch, Garmin, Fitbit) 
 If heart rate drops below 30 BPM or irregular rhythms detected, drone launches.
 
 ### 2️⃣ Autonomous Flight Modes
